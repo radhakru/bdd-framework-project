@@ -65,6 +65,32 @@ Scenario: verify the mini iframe text
 Then click on Alertframeandwindows button
 Then click on iframe button
 Then verify mini iframe text
+
+
+@nine
+Scenario: verify the parent iframe text
+Then click on Alertframeandwindows button
+Then click on nested form button
+Then verify the parent iframe text.
+
+
+@ten
+Scenario: verify the child iframe text
+Then click on Alertframeandwindows button
+Then click on nested form button
+Then verify the parent iframe text.
+Then verify the child iframe text.
+
+@eleven
+Scenario: verify the modal dialogs
+Then click on Alertframeandwindows button
+Then click on modal dialogs
+Then verify the text present in model dialogs
+Then click on small dialogs
+Then verify the text of small dialogs
+Then click on large dialogs
+Then verify the text of large dialogs
+
  
 
 

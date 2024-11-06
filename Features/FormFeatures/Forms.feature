@@ -3,6 +3,7 @@ Feature: Testing the Form Feature
 Background:
 Given user go to the url
 
+@one
 Scenario: verify the Forms name displayed or not
 Then click on Forms button
 Then verify the forms text displayed.
@@ -21,7 +22,7 @@ Then Enter Lastname "<Lastname>"
 Then Enter emial id "<emailid>"
 Then select gender
 Then Enter mobile number "<Mobile number>"
-Then Enter Date of Birth
+Then Enter Date of Birth "<Date of Birth>"
 Then Enter Subject
 Then select Hobbies check box
 Then updoad files
@@ -31,10 +32,10 @@ Then Enter Current Address "<Current Address>"
 #Then click on submit Button
 
 Examples:
-|Fullname|Lastname|emailid|Mobile number|Current Address|
-|Gulu|sata|r@gmail.com|7609962010|Bhubaneswar|
-|Babu|sata|g@gamil.com|9875532560|Bhubaneswar|
-|Lalu|sata|v@gmail.com|6789098764|Bhubaneswar|
+|Fullname|Lastname|emailid|Mobile number|Date of Birth|
+|Lakhy|sata|r@gmail.com|7609962010|7-June-2023|
+|Rama|sata|g@gamil.com|9875532560|5-March-2012|
+|sita|sata|v@gmail.com|6789098764|23-August-2022|
 
 
 #@Four

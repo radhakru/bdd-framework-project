@@ -198,25 +198,105 @@ public class AlertFrameWindowsstpes extends Base {
 		Thread.sleep(3000);
 
 	}
-	
-	
+
 	@Then("verify mini iframe text")
 	public void verify_mini_iframe_text() throws IOException {
-	   logger.info("verify the mini iframe text");
-	   //here we use the same text which is present in parentiframe.
-	   String content=getiframetext();
-	   afwp.verifythetextofminiiframe(content);
-	   
-	   //return to main frame.
-	   driver.switchTo().defaultContent();
-	   String page=driver.getPageSource();
-	   System.out.println("main page pagesource :"+page);
-	   
+		logger.info("verify the mini iframe text");
+		// here we use the same text which is present in parentiframe.
+		String content = getiframetext();
+		afwp.verifythetextofminiiframe(content);
+
+		// return to main frame.
+		driver.switchTo().defaultContent();
+		String page = driver.getPageSource();
+		System.out.println("main page pagesource :" + page);
+
 	}
-	
-	
-	
-	
+
+	@Then("click on nested form button")
+	public void click_on_nested_form_button() throws InterruptedException {
+		logger.info("scroll the pae");
+		js.executeScript("window.scrollBy(0,500)", "");
+
+		logger.info("clcik on nested frame");
+		afwp.clickonnestedframe();
+
+		logger.info("scroll the nestedform page");
+		js.executeScript("window.scrollBy(0,50)", "");
+
+		String pagesource = driver.getPageSource();
+		System.out.println(pagesource);
+
+		logger.info("wait 3 second");
+		Thread.sleep(3000);
+	}
+
+	@Then("verify the parent iframe text.")
+	public void verify_the_parent_iframe_text() throws IOException {
+		logger.info("verify the parent iframe text");
+		String text = getnestedparentiframevalue();
+		afwp.verifythenestedparenttext(text);
+
+	}
+
+	@Then("verify the child iframe text.")
+	public void verify_the_child_iframe_text() throws IOException {
+		logger.info("verify the child iframe text");
+		String childframetext = getnestedchildiframevalue();
+		afwp.verifythenestedchildtext(childframetext);
+
+		// driver switchto parent frame
+		driver.switchTo().parentFrame();
+
+		// driver switch to main page
+		driver.switchTo().defaultContent();
+
+	}
+
+	@Then("click on modal dialogs")
+	public void click_on_modal_dialogs() {
+		logger.info("scroll the page");
+		js.executeScript("window.scrollBy(0,400)", "");
+		logger.info("click on modal dialogs");
+		afwp.clickonmodaldialogs();
+	}
+
+	@Then("verify the text present in model dialogs")
+	public void verify_the_text_present_in_model_dialogs() throws IOException {
+		logger.info("verify the text present in modal dialogs");
+		String text = getModaltext();
+		afwp.verifythetextofmodaldialogs(text);
+	}
+
+	// error will come
+	@Then("click on small dialogs")
+	public void click_on_small_dialogs() {
+		logger.info("click on small dialogs");
+		afwp.clickonsmalldialogs();
+
+	}
+
+	@Then("verify the text of small dialogs")
+	public void verify_the_text_of_small_dialogs() throws IOException {
+		logger.info("verify the text of small dialogs");
+		String text = getsmallModaldialogstext();
+		afwp.verifythetextofsmalldialogs(text);
+		afwp.clickonsmalldialogsclose();
+	}
+
+	@Then("click on large dialogs")
+	public void click_on_large_dialogs() {
+		logger.info("click on large dialogs");
+		afwp.clickonlargemodaldialogs();
+	}
+
+	@Then("verify the text of large dialogs")
+	public void verify_the_text_of_large_dialogs() throws IOException {
+		logger.info("verify the test of large dialogs");
+		String text = getlargeModaldialogstext();
+		afwp.verifythetextoflargemodaldialogs(text);
+		afwp.clickonlargedilogsclose();
+	}
 
 	/*
 	 * @AfterTest

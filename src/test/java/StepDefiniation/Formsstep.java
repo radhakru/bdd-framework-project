@@ -1,5 +1,6 @@
 package StepDefiniation;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 import com.google.common.collect.Maps;
 
@@ -57,9 +58,9 @@ public void verify_the_practice_form_text_present_in_forms_page() throws IOExcep
 //All
 
 @Then("Enter Firstname {string}")
-public void enter_firstname(String string) throws InterruptedException {
+public void enter_firstname(String arg1) throws InterruptedException {
 	logger.info("enter full name");
-    fp.enterfullname(string);
+    fp.enterfullname(arg1);
     Thread.sleep(4000);
 }
 @Then("Enter Lastname {string}")
@@ -92,17 +93,33 @@ public void enter_mobile_number(String string) throws InterruptedException {
     fp.entermobilenumber(string);
     Thread.sleep(4000);
 }
-@Then("Enter Date of Birth")
-public void enter_date_of_birth() throws InterruptedException{
-	logger.info("Scroll the page");
-	js.executeScript("window.scrollBy(0,200)","");
-   logger.info("enter date of birth");
-   fp.selectdate();
-   Thread.sleep(4000);
+
+/*
+ * @Then("Enter Date of Birth") public void enter_date_of_birth() throws
+ * InterruptedException{ logger.info("Scroll the page");
+ * js.executeScript("window.scrollBy(0,200)","");
+ * logger.info("enter date of birth"); fp.selectdate(); Thread.sleep(4000); }
+ */
+@Then("Enter Date of Birth {string}")
+public void enter_date_of_birth(String string) throws InterruptedException {
+	String arr[]=string.split("-");
+	String date=arr[0];
+	String month=arr[1];
+	String year=arr[2];
+    logger.info("scroll the page");
+    js.executeScript("window.scrollBy(0,300)","");
+    logger.info("enter date of birth");
+    fp.selectdate(date,month,year);
+
 }
+
+
+
 @Then("Enter Subject")
 public void enter_subject() throws IOException,InterruptedException{
    logger.info("Enter Subject");
+  
+   
    fp.entersubject(getsubject());
    Thread.sleep(4000);
 }

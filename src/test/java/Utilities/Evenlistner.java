@@ -2,6 +2,7 @@ package Utilities;
 
 
 
+import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.HashMap;
@@ -19,6 +20,7 @@ import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 //import com.aventstack.extentreports.reporter.ExtentSparkReporter;
 import com.aventstack.extentreports.reporter.configuration.Theme;
 
+import StepDefiniation.Base;
 import io.cucumber.plugin.EventListener;
 import io.cucumber.plugin.event.TestRunFinished;
 import io.cucumber.plugin.event.EventPublisher;
@@ -33,7 +35,7 @@ import io.cucumber.plugin.event.TestStepStarted;
 public class Evenlistner implements  EventListener{
 	private ExtentSparkReporter spark;
 	private ExtentReports extent;
-
+	Base base=new Base();
 
 	Map<String, ExtentTest> feature = new HashMap<String, ExtentTest>();
 	ExtentTest scenario;
@@ -60,7 +62,14 @@ public class Evenlistner implements  EventListener{
 		publisher.registerHandlerFor(TestCaseStarted.class, this::ScenarioStarted);
 		publisher.registerHandlerFor(TestStepStarted.class, this::stepStarted
 		);
-		publisher.registerHandlerFor(TestStepFinished.class, this::stepFinished);
+		publisher.registerHandlerFor(TestStepFinished.class, event -> {
+			try {
+				stepFinished(event);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		});
 
 
 	};
@@ -168,7 +177,7 @@ public class Evenlistner implements  EventListener{
 
 
 	// This is triggered when TestStep is finished
-	private void stepFinished(TestStepFinished event) {
+	private void stepFinished(TestStepFinished event) throws IOException {
 
 			
 		if (event.getResult().getStatus().toString() == "PASSED") {
@@ -181,7 +190,7 @@ public class Evenlistner implements  EventListener{
 			
 			step.log(Status.SKIP, "This step was skipped ");
 		} else {
-			step.log(Status.FAIL, "This failed");
+			base.getScreenshort();
 		}
 	};
 

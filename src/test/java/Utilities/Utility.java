@@ -16,7 +16,7 @@ public class Utility {
 	public void loadproperties() throws IOException {
 		pp=new Properties();
 		
-		//change utility()
+		//Here we load the file in properties class
 		pp.load(utility());
 		
 	}
@@ -579,6 +579,32 @@ public class Utility {
 		loadproperties();
 		return pp.getProperty("parentiframetext");
 	}
+	//get the nestedparentiframe value
+	public String getnestedparentiframevalue() throws IOException {
+		loadproperties();
+		return pp.getProperty("nestedparentframe");
+	}
+	//get the nested child frame text value
+	public String getnestedchildiframevalue() throws IOException {
+		loadproperties();
+		return pp.getProperty("nestedchildframe");
+	}
+	
+	public String getModaltext() throws IOException {
+		loadproperties();
+		return pp.getProperty("modaltext");
+	}
 	
 	
+	//get the small modal text
+	public String getsmallModaldialogstext() throws IOException {
+		loadproperties();
+		return pp.getProperty("smallmodaltext");
+	}
+	
+	//get the large modal text
+	public String getlargeModaldialogstext() throws IOException {
+		loadproperties();
+		return pp.getProperty("largemodaltext");
+	}
 }
