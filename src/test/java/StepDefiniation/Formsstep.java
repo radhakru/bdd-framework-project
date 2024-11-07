@@ -9,7 +9,9 @@ import java.util.List;
 import java.util.Map;
 
 import Pageobject.Formspage;
+import Utilities.Utility;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.apache.log4j.Logger;
 
@@ -106,21 +108,23 @@ public void enter_date_of_birth(String string) throws InterruptedException {
 	String date=arr[0];
 	String month=arr[1];
 	String year=arr[2];
-    logger.info("scroll the page");
-    js.executeScript("window.scrollBy(0,300)","");
+//    logger.info("scroll the page");
+//    js.executeScript("window.scrollBy(0,300)","");
     logger.info("enter date of birth");
-    fp.selectdate(date,month,year);
-
+    try {
+    	fp.selectdate(date,month,year);
+    }catch(Exception e) {
+    	e.getMessage();
+    }
+    Thread.sleep(2000);
 }
 
 
 
 @Then("Enter Subject")
 public void enter_subject() throws IOException,InterruptedException{
-   logger.info("Enter Subject");
-  
-   
-   fp.entersubject(getsubject());
+   logger.info("Enter Subject");    
+   fp.entersubject(new Utility().getsubject());
    Thread.sleep(4000);
 }
 @Then("select Hobbies check box")

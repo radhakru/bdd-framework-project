@@ -152,8 +152,12 @@ public void selectdate(String dates,String months, String years) {
 	
 }
 public void entersubject(String name) {
+//	System.out.println(ldriver.findElement(By.xpath("//input[@id='subjectsInput']")).isDisplayed());
+//	System.out.println(ldriver.findElement(By.xpath("//input[@id='subjectsInput']")).isEnabled());
+//	System.out.println(ldriver.findElement(By.xpath("//input[@id='subjectsInput']")).isSelected());
 	 WebDriverWait wait=new WebDriverWait(ldriver,10);
 	 wait.until(ExpectedConditions.visibilityOfElementLocated(subject));
+
 	ldriver.findElement(subject).sendKeys(name);
 	ldriver.findElement(subject).sendKeys(Keys.ENTER);
 }

@@ -21308,3 +21308,448 @@
 2024-10-28 22:57:27,753 [main] INFO ToolsQa - enter mobile numebr
 2024-10-28 22:58:18,273 [main] INFO ToolsQa - scroll the page
 2024-10-28 22:58:21,722 [main] INFO ToolsQa - enter date of birth
+2024-11-06 21:49:41,284 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 21:49:51,059 [main] INFO Toolsqa - Lunch the url
+2024-11-06 21:49:51,086 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:49:51,110 [main] INFO ToolsQa - click on forms button
+2024-11-06 21:49:53,446 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:49:55,687 [main] INFO ToolsQa - click on practice form
+2024-11-06 21:49:57,968 [main] INFO ToolsQa - enter full name
+2024-11-06 21:50:02,221 [main] INFO ToolsQa - enter lastname
+2024-11-06 21:50:06,605 [main] INFO ToolsQa - Scroll the page
+2024-11-06 21:50:06,636 [main] INFO ToolsQa - enter emial id
+2024-11-06 21:50:10,820 [main] INFO ToolsQa - select geder
+2024-11-06 21:50:15,913 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 21:50:21,370 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:50:22,327 [main] INFO ToolsQa - enter date of birth
+2024-11-06 21:50:27,670 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 21:50:35,121 [main] INFO Toolsqa - Lunch the url
+2024-11-06 21:50:35,129 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:50:35,164 [main] INFO ToolsQa - click on forms button
+2024-11-06 21:50:37,622 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:50:40,980 [main] INFO ToolsQa - click on practice form
+2024-11-06 21:50:43,173 [main] INFO ToolsQa - enter full name
+2024-11-06 21:50:47,343 [main] INFO ToolsQa - enter lastname
+2024-11-06 21:50:51,469 [main] INFO ToolsQa - Scroll the page
+2024-11-06 21:50:51,495 [main] INFO ToolsQa - enter emial id
+2024-11-06 21:50:55,635 [main] INFO ToolsQa - select geder
+2024-11-06 21:50:59,941 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 21:51:04,157 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:51:04,178 [main] INFO ToolsQa - enter date of birth
+2024-11-06 21:51:07,605 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 21:51:12,466 [main] INFO Toolsqa - Lunch the url
+2024-11-06 21:51:12,468 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:51:12,485 [main] INFO ToolsQa - click on forms button
+2024-11-06 21:51:14,694 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:51:15,250 [main] INFO ToolsQa - click on practice form
+2024-11-06 21:51:17,622 [main] INFO ToolsQa - enter full name
+2024-11-06 21:51:21,755 [main] INFO ToolsQa - enter lastname
+2024-11-06 21:51:25,882 [main] INFO ToolsQa - Scroll the page
+2024-11-06 21:51:25,967 [main] INFO ToolsQa - enter emial id
+2024-11-06 21:51:30,253 [main] INFO ToolsQa - select geder
+2024-11-06 21:51:34,470 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 21:51:38,668 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:51:38,713 [main] INFO ToolsQa - enter date of birth
+2024-11-06 21:52:01,427 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 21:52:12,027 [main] INFO Toolsqa - Lunch the url
+2024-11-06 21:52:12,063 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:52:12,102 [main] INFO ToolsQa - click on forms button
+2024-11-06 21:52:14,401 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:52:14,665 [main] INFO ToolsQa - click on practice form
+2024-11-06 21:52:17,084 [main] INFO ToolsQa - enter full name
+2024-11-06 21:52:21,330 [main] INFO ToolsQa - enter lastname
+2024-11-06 21:52:25,470 [main] INFO ToolsQa - Scroll the page
+2024-11-06 21:52:25,811 [main] INFO ToolsQa - enter emial id
+2024-11-06 21:52:30,121 [main] INFO ToolsQa - select geder
+2024-11-06 21:52:34,850 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 21:52:39,271 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:52:39,364 [main] INFO ToolsQa - enter date of birth
+2024-11-06 21:52:44,740 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 21:52:47,873 [main] INFO Toolsqa - Lunch the url
+2024-11-06 21:52:47,875 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:52:47,925 [main] INFO ToolsQa - click on forms button
+2024-11-06 21:52:50,234 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:52:50,391 [main] INFO ToolsQa - click on practice form
+2024-11-06 21:52:53,020 [main] INFO ToolsQa - enter full name
+2024-11-06 21:52:57,203 [main] INFO ToolsQa - enter lastname
+2024-11-06 21:53:01,334 [main] INFO ToolsQa - Scroll the page
+2024-11-06 21:53:01,369 [main] INFO ToolsQa - enter emial id
+2024-11-06 21:53:05,744 [main] INFO ToolsQa - select geder
+2024-11-06 21:53:10,540 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 21:53:15,327 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:53:15,450 [main] INFO ToolsQa - enter date of birth
+2024-11-06 21:53:20,378 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 21:53:26,967 [main] INFO Toolsqa - Lunch the url
+2024-11-06 21:53:26,969 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:53:26,984 [main] INFO ToolsQa - click on forms button
+2024-11-06 21:53:29,205 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:53:29,228 [main] INFO ToolsQa - click on practice form
+2024-11-06 21:53:31,388 [main] INFO ToolsQa - enter full name
+2024-11-06 21:53:35,554 [main] INFO ToolsQa - enter lastname
+2024-11-06 21:53:39,679 [main] INFO ToolsQa - Scroll the page
+2024-11-06 21:53:39,695 [main] INFO ToolsQa - enter emial id
+2024-11-06 21:53:43,868 [main] INFO ToolsQa - select geder
+2024-11-06 21:53:48,221 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 21:53:52,419 [main] INFO ToolsQa - scroll the page
+2024-11-06 21:53:52,439 [main] INFO ToolsQa - enter date of birth
+2024-11-06 22:00:39,544 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:00:41,202 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:00:41,228 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:00:48,312 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:00:50,673 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:00:53,150 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:00:55,443 [main] INFO ToolsQa - enter full name
+2024-11-06 22:00:59,667 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:01:03,819 [main] INFO ToolsQa - Scroll the page
+2024-11-06 22:01:03,842 [main] INFO ToolsQa - enter emial id
+2024-11-06 22:01:08,085 [main] INFO ToolsQa - select geder
+2024-11-06 22:01:12,964 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 22:01:17,165 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:01:17,196 [main] INFO ToolsQa - enter date of birth
+2024-11-06 22:01:20,243 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:01:24,421 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:01:24,426 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:01:24,456 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:01:26,696 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:01:28,971 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:01:31,127 [main] INFO ToolsQa - enter full name
+2024-11-06 22:01:35,302 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:01:39,424 [main] INFO ToolsQa - Scroll the page
+2024-11-06 22:01:39,442 [main] INFO ToolsQa - enter emial id
+2024-11-06 22:01:43,624 [main] INFO ToolsQa - select geder
+2024-11-06 22:01:47,876 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 22:01:52,022 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:01:52,045 [main] INFO ToolsQa - enter date of birth
+2024-11-06 22:01:55,612 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:02:00,168 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:02:00,169 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:02:00,187 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:02:02,551 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:02:03,966 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:02:06,297 [main] INFO ToolsQa - enter full name
+2024-11-06 22:02:10,523 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:02:14,668 [main] INFO ToolsQa - Scroll the page
+2024-11-06 22:02:14,690 [main] INFO ToolsQa - enter emial id
+2024-11-06 22:02:18,988 [main] INFO ToolsQa - select geder
+2024-11-06 22:02:23,220 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 22:02:27,370 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:02:27,386 [main] INFO ToolsQa - enter date of birth
+2024-11-06 22:17:16,736 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:17:18,670 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:17:18,691 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:17:27,147 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:17:29,980 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:17:43,093 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:17:48,661 [main] INFO ToolsQa - enter full name
+2024-11-06 22:17:53,037 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:17:57,154 [main] INFO ToolsQa - Scroll the page
+2024-11-06 22:17:57,189 [main] INFO ToolsQa - enter emial id
+2024-11-06 22:18:01,350 [main] INFO ToolsQa - select geder
+2024-11-06 22:18:06,318 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 22:18:10,502 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:18:10,543 [main] INFO ToolsQa - enter date of birth
+2024-11-06 22:18:13,931 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:18:17,492 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:18:17,498 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:18:17,523 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:18:19,783 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:18:23,163 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:18:25,435 [main] INFO ToolsQa - enter full name
+2024-11-06 22:18:29,902 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:18:34,032 [main] INFO ToolsQa - Scroll the page
+2024-11-06 22:18:34,073 [main] INFO ToolsQa - enter emial id
+2024-11-06 22:18:38,412 [main] INFO ToolsQa - select geder
+2024-11-06 22:18:42,629 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 22:18:46,786 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:18:46,812 [main] INFO ToolsQa - enter date of birth
+2024-11-06 22:18:50,526 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:18:54,954 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:18:54,979 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:18:54,994 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:18:57,236 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:18:58,919 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:19:01,142 [main] INFO ToolsQa - enter full name
+2024-11-06 22:19:05,732 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:19:10,724 [main] INFO ToolsQa - Scroll the page
+2024-11-06 22:19:10,740 [main] INFO ToolsQa - enter emial id
+2024-11-06 22:19:14,925 [main] INFO ToolsQa - select geder
+2024-11-06 22:19:19,215 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 22:19:23,408 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:19:23,426 [main] INFO ToolsQa - enter date of birth
+2024-11-06 22:19:42,413 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:19:52,604 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:19:52,624 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:19:52,657 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:19:55,089 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:19:59,616 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:20:01,924 [main] INFO ToolsQa - enter full name
+2024-11-06 22:20:06,137 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:25:23,383 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:25:31,164 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:25:31,186 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:25:31,235 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:25:34,093 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:25:38,883 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:25:43,332 [main] INFO ToolsQa - enter full name
+2024-11-06 22:25:47,947 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:25:52,073 [main] INFO ToolsQa - Scroll the page
+2024-11-06 22:25:52,096 [main] INFO ToolsQa - enter emial id
+2024-11-06 22:25:56,239 [main] INFO ToolsQa - select geder
+2024-11-06 22:26:00,936 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 22:26:21,384 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:26:29,494 [main] INFO ToolsQa - enter date of birth
+2024-11-06 22:38:02,923 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:38:29,486 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:38:29,508 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:38:29,536 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:38:31,829 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:38:31,851 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:38:34,051 [main] INFO ToolsQa - enter full name
+2024-11-06 22:38:38,388 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:38:42,525 [main] INFO ToolsQa - Scroll the page
+2024-11-06 22:38:42,552 [main] INFO ToolsQa - enter emial id
+2024-11-06 22:38:46,707 [main] INFO ToolsQa - select geder
+2024-11-06 22:38:50,924 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 22:39:15,985 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:39:21,096 [main] INFO ToolsQa - enter date of birth
+2024-11-06 22:39:53,854 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:39:56,462 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:39:56,468 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:39:56,495 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:39:58,685 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:39:59,984 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:40:02,160 [main] INFO ToolsQa - enter full name
+2024-11-06 22:40:06,358 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:40:10,458 [main] INFO ToolsQa - Scroll the page
+2024-11-06 22:40:10,478 [main] INFO ToolsQa - enter emial id
+2024-11-06 22:40:14,616 [main] INFO ToolsQa - select geder
+2024-11-06 22:40:18,826 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 22:41:33,138 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:41:47,349 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:41:47,672 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:41:47,726 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:41:50,608 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:41:50,654 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:41:54,192 [main] INFO ToolsQa - enter full name
+2024-11-06 22:41:58,400 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:42:02,492 [main] INFO ToolsQa - Scroll the page
+2024-11-06 22:42:02,520 [main] INFO ToolsQa - enter emial id
+2024-11-06 22:42:06,661 [main] INFO ToolsQa - select geder
+2024-11-06 22:42:11,001 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 22:42:24,718 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:42:27,038 [main] INFO ToolsQa - enter date of birth
+2024-11-06 22:50:44,412 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:50:53,195 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:50:53,288 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:50:53,348 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:50:55,777 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:50:57,362 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:50:59,548 [main] INFO ToolsQa - enter full name
+2024-11-06 22:51:03,811 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:51:07,930 [main] INFO ToolsQa - Scroll the page
+2024-11-06 22:51:07,956 [main] INFO ToolsQa - enter emial id
+2024-11-06 22:51:12,129 [main] INFO ToolsQa - select geder
+2024-11-06 22:51:16,450 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 22:56:43,559 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:56:45,270 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:56:45,306 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:56:49,700 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:56:51,933 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:56:54,362 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:56:56,578 [main] INFO ToolsQa - enter full name
+2024-11-06 22:57:00,767 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:57:04,934 [main] INFO ToolsQa - Scroll the page
+2024-11-06 22:57:04,960 [main] INFO ToolsQa - enter emial id
+2024-11-06 22:57:09,230 [main] INFO ToolsQa - select geder
+2024-11-06 22:57:13,524 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 22:57:32,243 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:57:35,577 [main] INFO ToolsQa - enter date of birth
+2024-11-06 22:59:24,715 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 22:59:32,488 [main] INFO Toolsqa - Lunch the url
+2024-11-06 22:59:32,519 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:59:32,592 [main] INFO ToolsQa - click on forms button
+2024-11-06 22:59:35,022 [main] INFO ToolsQa - scroll the page
+2024-11-06 22:59:36,705 [main] INFO ToolsQa - click on practice form
+2024-11-06 22:59:39,048 [main] INFO ToolsQa - enter full name
+2024-11-06 22:59:43,177 [main] INFO ToolsQa - enter lastname
+2024-11-06 22:59:47,389 [main] INFO ToolsQa - Scroll the page
+2024-11-06 22:59:47,418 [main] INFO ToolsQa - enter emial id
+2024-11-06 22:59:51,598 [main] INFO ToolsQa - select geder
+2024-11-06 22:59:59,811 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 23:00:04,196 [main] INFO ToolsQa - enter date of birth
+2024-11-06 23:00:05,040 [main] INFO ToolsQa - Enter Subject
+2024-11-06 23:00:09,429 [main] INFO ToolsQa - select hobbies
+2024-11-06 23:00:11,801 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 23:00:13,948 [main] INFO Toolsqa - Lunch the url
+2024-11-06 23:00:13,949 [main] INFO ToolsQa - scroll the page
+2024-11-06 23:00:13,967 [main] INFO ToolsQa - click on forms button
+2024-11-06 23:00:18,548 [main] INFO ToolsQa - scroll the page
+2024-11-06 23:00:18,594 [main] INFO ToolsQa - click on practice form
+2024-11-06 23:00:20,804 [main] INFO ToolsQa - enter full name
+2024-11-06 23:00:24,898 [main] INFO ToolsQa - enter lastname
+2024-11-06 23:00:28,997 [main] INFO ToolsQa - Scroll the page
+2024-11-06 23:00:29,016 [main] INFO ToolsQa - enter emial id
+2024-11-06 23:00:33,129 [main] INFO ToolsQa - select geder
+2024-11-06 23:00:37,298 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 23:00:41,436 [main] INFO ToolsQa - enter date of birth
+2024-11-06 23:00:42,006 [main] INFO ToolsQa - Enter Subject
+2024-11-06 23:00:46,364 [main] INFO ToolsQa - select hobbies
+2024-11-06 23:00:50,448 [main] INFO ToolsQa - upload files
+2024-11-06 23:00:52,523 [main] INFO ToolsQa - enter address
+2024-11-06 23:00:56,780 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 23:00:58,524 [main] INFO Toolsqa - Lunch the url
+2024-11-06 23:00:58,526 [main] INFO ToolsQa - scroll the page
+2024-11-06 23:00:58,542 [main] INFO ToolsQa - click on forms button
+2024-11-06 23:01:00,748 [main] INFO ToolsQa - scroll the page
+2024-11-06 23:01:00,762 [main] INFO ToolsQa - click on practice form
+2024-11-06 23:01:02,940 [main] INFO ToolsQa - enter full name
+2024-11-06 23:01:07,065 [main] INFO ToolsQa - enter lastname
+2024-11-06 23:01:11,150 [main] INFO ToolsQa - Scroll the page
+2024-11-06 23:01:11,167 [main] INFO ToolsQa - enter emial id
+2024-11-06 23:01:15,298 [main] INFO ToolsQa - select geder
+2024-11-06 23:01:19,493 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 23:01:23,632 [main] INFO ToolsQa - enter date of birth
+2024-11-06 23:01:25,261 [main] INFO ToolsQa - Enter Subject
+2024-11-06 23:01:29,592 [main] INFO ToolsQa - select hobbies
+2024-11-06 23:01:33,665 [main] INFO ToolsQa - upload files
+2024-11-06 23:01:35,725 [main] INFO ToolsQa - enter address
+2024-11-06 23:08:44,397 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 23:08:50,899 [main] INFO Toolsqa - Lunch the url
+2024-11-06 23:08:50,921 [main] INFO ToolsQa - scroll the page
+2024-11-06 23:08:50,946 [main] INFO ToolsQa - click on forms button
+2024-11-06 23:08:53,185 [main] INFO ToolsQa - scroll the page
+2024-11-06 23:08:53,365 [main] INFO ToolsQa - click on practice form
+2024-11-06 23:08:55,620 [main] INFO ToolsQa - enter full name
+2024-11-06 23:08:59,789 [main] INFO ToolsQa - enter lastname
+2024-11-06 23:09:04,422 [main] INFO ToolsQa - Scroll the page
+2024-11-06 23:09:04,442 [main] INFO ToolsQa - enter emial id
+2024-11-06 23:09:08,623 [main] INFO ToolsQa - select geder
+2024-11-06 23:09:13,251 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 23:09:17,588 [main] INFO ToolsQa - enter date of birth
+2024-11-06 23:09:20,486 [main] INFO ToolsQa - Enter Subject
+2024-11-06 23:09:25,630 [main] INFO ToolsQa - select hobbies
+2024-11-06 23:09:29,720 [main] INFO ToolsQa - upload files
+2024-11-06 23:09:31,791 [main] INFO ToolsQa - enter address
+2024-11-06 23:09:36,061 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 23:09:38,928 [main] INFO Toolsqa - Lunch the url
+2024-11-06 23:09:38,929 [main] INFO ToolsQa - scroll the page
+2024-11-06 23:09:38,954 [main] INFO ToolsQa - click on forms button
+2024-11-06 23:09:41,087 [main] INFO ToolsQa - scroll the page
+2024-11-06 23:09:41,107 [main] INFO ToolsQa - click on practice form
+2024-11-06 23:09:43,243 [main] INFO ToolsQa - enter full name
+2024-11-06 23:09:47,550 [main] INFO ToolsQa - enter lastname
+2024-11-06 23:09:51,692 [main] INFO ToolsQa - Scroll the page
+2024-11-06 23:09:51,716 [main] INFO ToolsQa - enter emial id
+2024-11-06 23:09:55,847 [main] INFO ToolsQa - select geder
+2024-11-06 23:10:00,078 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 23:10:04,195 [main] INFO ToolsQa - enter date of birth
+2024-11-06 23:10:06,723 [main] INFO ToolsQa - Enter Subject
+2024-11-06 23:10:10,992 [main] INFO ToolsQa - select hobbies
+2024-11-06 23:10:15,075 [main] INFO ToolsQa - upload files
+2024-11-06 23:10:17,138 [main] INFO ToolsQa - enter address
+2024-11-06 23:10:21,339 [main] INFO Toolsqa - Lunch the browser
+2024-11-06 23:10:25,283 [main] INFO Toolsqa - Lunch the url
+2024-11-06 23:10:25,284 [main] INFO ToolsQa - scroll the page
+2024-11-06 23:10:25,299 [main] INFO ToolsQa - click on forms button
+2024-11-06 23:10:27,441 [main] INFO ToolsQa - scroll the page
+2024-11-06 23:10:27,484 [main] INFO ToolsQa - click on practice form
+2024-11-06 23:10:29,638 [main] INFO ToolsQa - enter full name
+2024-11-06 23:10:33,757 [main] INFO ToolsQa - enter lastname
+2024-11-06 23:10:37,858 [main] INFO ToolsQa - Scroll the page
+2024-11-06 23:10:37,874 [main] INFO ToolsQa - enter emial id
+2024-11-06 23:10:42,010 [main] INFO ToolsQa - select geder
+2024-11-06 23:10:46,172 [main] INFO ToolsQa - enter mobile numebr
+2024-11-06 23:10:50,308 [main] INFO ToolsQa - enter date of birth
+2024-11-06 23:10:53,898 [main] INFO ToolsQa - Enter Subject
+2024-11-06 23:10:58,168 [main] INFO ToolsQa - select hobbies
+2024-11-06 23:11:02,252 [main] INFO ToolsQa - upload files
+2024-11-06 23:11:04,306 [main] INFO ToolsQa - enter address
+2024-11-07 21:37:48,087 [main] INFO Toolsqa - Lunch the browser
+2024-11-07 21:37:54,910 [main] INFO Toolsqa - Lunch the url
+2024-11-07 21:37:54,938 [main] INFO ToolsQa - scroll the page
+2024-11-07 21:37:54,970 [main] INFO ToolsQa - click on forms button
+2024-11-07 21:37:57,291 [main] INFO ToolsQa - scroll the page
+2024-11-07 21:37:58,752 [main] INFO ToolsQa - click on practice form
+2024-11-07 21:38:01,239 [main] INFO ToolsQa - enter full name
+2024-11-07 21:38:05,462 [main] INFO ToolsQa - enter lastname
+2024-11-07 21:38:09,604 [main] INFO ToolsQa - Scroll the page
+2024-11-07 21:38:09,624 [main] INFO ToolsQa - enter emial id
+2024-11-07 21:38:13,805 [main] INFO ToolsQa - select geder
+2024-11-07 21:38:18,155 [main] INFO ToolsQa - enter mobile numebr
+2024-11-07 21:38:22,338 [main] INFO ToolsQa - enter date of birth
+2024-11-07 21:38:25,364 [main] INFO ToolsQa - Enter Subject
+2024-11-07 21:38:29,760 [main] INFO ToolsQa - select hobbies
+2024-11-07 21:38:33,866 [main] INFO ToolsQa - upload files
+2024-11-07 21:38:35,999 [main] INFO ToolsQa - enter address
+2024-11-07 21:38:40,396 [main] INFO Toolsqa - Lunch the browser
+2024-11-07 21:38:42,160 [main] INFO Toolsqa - Lunch the url
+2024-11-07 21:38:42,162 [main] INFO ToolsQa - scroll the page
+2024-11-07 21:38:42,184 [main] INFO ToolsQa - click on forms button
+2024-11-07 21:38:44,474 [main] INFO ToolsQa - scroll the page
+2024-11-07 21:38:45,107 [main] INFO ToolsQa - click on practice form
+2024-11-07 21:38:47,274 [main] INFO ToolsQa - enter full name
+2024-11-07 21:38:51,431 [main] INFO ToolsQa - enter lastname
+2024-11-07 21:38:55,574 [main] INFO ToolsQa - Scroll the page
+2024-11-07 21:38:55,599 [main] INFO ToolsQa - enter emial id
+2024-11-07 21:38:59,753 [main] INFO ToolsQa - select geder
+2024-11-07 21:39:04,067 [main] INFO ToolsQa - enter mobile numebr
+2024-11-07 21:39:08,284 [main] INFO ToolsQa - enter date of birth
+2024-11-07 21:39:11,597 [main] INFO ToolsQa - Enter Subject
+2024-11-07 21:39:16,039 [main] INFO ToolsQa - select hobbies
+2024-11-07 21:39:20,214 [main] INFO ToolsQa - upload files
+2024-11-07 21:39:22,304 [main] INFO ToolsQa - enter address
+2024-11-07 21:39:26,570 [main] INFO Toolsqa - Lunch the browser
+2024-11-07 21:39:27,478 [main] INFO Toolsqa - Lunch the url
+2024-11-07 21:39:27,480 [main] INFO ToolsQa - scroll the page
+2024-11-07 21:39:31,956 [main] INFO ToolsQa - click on forms button
+2024-11-07 21:45:12,680 [main] INFO Toolsqa - Lunch the browser
+2024-11-07 21:45:14,302 [main] INFO Toolsqa - Lunch the url
+2024-11-07 21:45:14,320 [main] INFO ToolsQa - scroll the page
+2024-11-07 21:45:19,156 [main] INFO ToolsQa - click on forms button
+2024-11-07 21:45:21,379 [main] INFO ToolsQa - scroll the page
+2024-11-07 21:45:22,601 [main] INFO ToolsQa - click on practice form
+2024-11-07 21:45:24,874 [main] INFO ToolsQa - enter full name
+2024-11-07 21:45:29,584 [main] INFO ToolsQa - enter lastname
+2024-11-07 21:45:33,730 [main] INFO ToolsQa - Scroll the page
+2024-11-07 21:45:33,752 [main] INFO ToolsQa - enter emial id
+2024-11-07 21:45:37,939 [main] INFO ToolsQa - select geder
+2024-11-07 21:45:42,208 [main] INFO ToolsQa - enter mobile numebr
+2024-11-07 21:45:46,367 [main] INFO ToolsQa - enter date of birth
+2024-11-07 21:45:49,345 [main] INFO ToolsQa - Enter Subject
+2024-11-07 21:45:53,730 [main] INFO ToolsQa - select hobbies
+2024-11-07 21:45:57,853 [main] INFO ToolsQa - upload files
+2024-11-07 21:45:59,972 [main] INFO ToolsQa - enter address
+2024-11-07 21:46:04,439 [main] INFO Toolsqa - Lunch the browser
+2024-11-07 21:46:06,103 [main] INFO Toolsqa - Lunch the url
+2024-11-07 21:46:06,103 [main] INFO ToolsQa - scroll the page
+2024-11-07 21:46:06,136 [main] INFO ToolsQa - click on forms button
+2024-11-07 21:46:08,439 [main] INFO ToolsQa - scroll the page
+2024-11-07 21:46:08,518 [main] INFO ToolsQa - click on practice form
+2024-11-07 21:46:10,958 [main] INFO ToolsQa - enter full name
+2024-11-07 21:46:15,107 [main] INFO ToolsQa - enter lastname
+2024-11-07 21:46:19,241 [main] INFO ToolsQa - Scroll the page
+2024-11-07 21:46:19,267 [main] INFO ToolsQa - enter emial id
+2024-11-07 21:46:23,428 [main] INFO ToolsQa - select geder
+2024-11-07 21:46:27,682 [main] INFO ToolsQa - enter mobile numebr
+2024-11-07 21:46:31,854 [main] INFO ToolsQa - enter date of birth
+2024-11-07 21:46:34,603 [main] INFO ToolsQa - Enter Subject
+2024-11-07 21:46:38,923 [main] INFO ToolsQa - select hobbies
+2024-11-07 21:46:43,031 [main] INFO ToolsQa - upload files
+2024-11-07 21:46:45,111 [main] INFO ToolsQa - enter address
+2024-11-07 21:46:49,381 [main] INFO Toolsqa - Lunch the browser
+2024-11-07 21:46:50,853 [main] INFO Toolsqa - Lunch the url
+2024-11-07 21:46:50,857 [main] INFO ToolsQa - scroll the page
+2024-11-07 21:46:50,873 [main] INFO ToolsQa - click on forms button
+2024-11-07 21:46:53,719 [main] INFO ToolsQa - scroll the page
+2024-11-07 21:46:53,761 [main] INFO ToolsQa - click on practice form
+2024-11-07 21:46:55,924 [main] INFO ToolsQa - enter full name
+2024-11-07 21:47:00,075 [main] INFO ToolsQa - enter lastname
+2024-11-07 21:47:04,209 [main] INFO ToolsQa - Scroll the page
+2024-11-07 21:47:04,230 [main] INFO ToolsQa - enter emial id
+2024-11-07 21:47:08,384 [main] INFO ToolsQa - select geder
+2024-11-07 21:47:12,598 [main] INFO ToolsQa - enter mobile numebr
+2024-11-07 21:47:16,779 [main] INFO ToolsQa - enter date of birth
+2024-11-07 21:47:20,792 [main] INFO ToolsQa - Enter Subject
+2024-11-07 21:47:25,174 [main] INFO ToolsQa - select hobbies
+2024-11-07 21:47:29,284 [main] INFO ToolsQa - upload files
+2024-11-07 21:47:31,363 [main] INFO ToolsQa - enter address
